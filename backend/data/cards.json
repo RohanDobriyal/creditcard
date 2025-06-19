@@ -1,0 +1,316 @@
+[
+  {
+    "name": "SBI Card Elite",
+    "issuer": "SBI",
+    "annual_fee": 5000,
+    "eligibility_min_income": 60000,
+    "eligibility_min_score": 750,
+    "rewards": {
+      "fuel_cashback_pct": 20,
+      "grocery_cashback_pct": 10,
+      "dining_cashback_pct": 5
+    },
+    "perks": ["airport lounge access", "movie vouchers"]
+  },
+  {
+    "name": "HDFC Diners Club Black",
+    "issuer": "HDFC Bank",
+    "annual_fee": 10000,
+    "eligibility_min_income": 70000,
+    "eligibility_min_score": 800,
+    "rewards": {
+      "all_spends_cashback_pct": 2.5
+    },
+    "perks": ["unlimited lounge access", "dining vouchers"]
+  },
+  {
+    "name": "ICICI Coral",
+    "issuer": "ICICI Bank",
+    "annual_fee": 1000,
+    "eligibility_min_income": 40000,
+    "eligibility_min_score": 650,
+    "rewards": {
+      "all_spends_cashback_pct": 1.5
+    },
+    "perks": ["fuel surcharge waiver"]
+  },
+  {
+    "name": "Axis Bank Vistara Infinite",
+    "issuer": "Axis Bank",
+    "annual_fee": 3000,
+    "eligibility_min_income": 50000,
+    "eligibility_min_score": 720,
+    "rewards": {
+      "travel_miles_pct": 2.5,
+      "all_spends_cashback_pct": 1
+    },
+    "perks": ["Vistara Silver Tier", "2 lounge accesses per quarter"]
+  },
+  {
+    "name": "Axis Bank Magnus",
+    "issuer": "Axis Bank",
+    "annual_fee": 3000,
+    "eligibility_min_income": 100000,
+    "eligibility_min_score": 760,
+    "rewards": {
+      "travel_miles_pct": 2,
+      "dining_cashback_pct": 10
+    },
+    "perks": ["complimentary movie tickets", "personal concierge service"]
+  },
+  {
+    "name": "HDFC Regalia",
+    "issuer": "HDFC Bank",
+    "annual_fee": 2500,
+    "eligibility_min_income": 60000,
+    "eligibility_min_score": 700,
+    "rewards": {
+      "dining_cashback_pct": 5,
+      "travel_miles_pct": 1
+    },
+    "perks": ["airport lounge access", "complimentary golf games"]
+  },
+  {
+    "name": "HDFC Millennia",
+    "issuer": "HDFC Bank",
+    "annual_fee": 1000,
+    "eligibility_min_income": 40000,
+    "eligibility_min_score": 650,
+    "rewards": {
+      "all_spends_cashback_pct": 5
+    },
+    "perks": ["online shopping vouchers", "movie tickets"]
+  },
+  {
+    "name": "ICICI Amazon Pay",
+    "issuer": "ICICI Bank",
+    "annual_fee": 500,
+    "eligibility_min_income": 30000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 5
+    },
+    "perks": ["Amazon Pay benefits", "fuel surcharge waiver"]
+  },
+  {
+    "name": "ICICI Platinum Chip",
+    "issuer": "ICICI Bank",
+    "annual_fee": 0,
+    "eligibility_min_income": 20000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 1
+    },
+    "perks": ["fuel surcharge waiver", "traveler insurance"]
+  },
+  {
+    "name": "SBI SimplyCLICK",
+    "issuer": "SBI",
+    "annual_fee": 499,
+    "eligibility_min_income": 30000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 2
+    },
+    "perks": ["online shopping bonus", "movie tickets"]
+  },
+  {
+    "name": "SBI Advantage",
+    "issuer": "SBI",
+    "annual_fee": 1000,
+    "eligibility_min_income": 50000,
+    "eligibility_min_score": 650,
+    "rewards": {
+      "all_spends_cashback_pct": 2.5
+    },
+    "perks": ["fuel surcharge waiver", "accidental insurance"]
+  },
+  {
+    "name": "SBI PremierMiles",
+    "issuer": "SBI",
+    "annual_fee": 2000,
+    "eligibility_min_income": 70000,
+    "eligibility_min_score": 700,
+    "rewards": {
+      "travel_miles_pct": 1
+    },
+    "perks": ["lounge access", "travel vouchers"]
+  },
+  {
+    "name": "Citibank Cashback",
+    "issuer": "Citibank",
+    "annual_fee": 500,
+    "eligibility_min_income": 30000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 5
+    },
+    "perks": ["international cashback", "online shopping benefits"]
+  },
+  {
+    "name": "Citibank PremierMiles",
+    "issuer": "Citibank",
+    "annual_fee": 3000,
+    "eligibility_min_income": 60000,
+    "eligibility_min_score": 720,
+    "rewards": {
+      "travel_miles_pct": 1
+    },
+    "perks": ["two complimentary lounge visits", "airline partner vouchers"]
+  },
+  {
+    "name": "Standard Chartered SuperValue",
+    "issuer": "Standard Chartered",
+    "annual_fee": 500,
+    "eligibility_min_income": 25000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 5
+    },
+    "perks": ["fuel surcharge waiver", "utility bill waiver"]
+  },
+  {
+    "name": "Standard Chartered Manhattan",
+    "issuer": "Standard Chartered",
+    "annual_fee": 1200,
+    "eligibility_min_income": 50000,
+    "eligibility_min_score": 650,
+    "rewards": {
+      "all_spends_cashback_pct": 3
+    },
+    "perks": ["grocery cashback up to ₹7500", "movie vouchers"]
+  },
+  {
+    "name": "American Express Platinum Travel",
+    "issuer": "American Express",
+    "annual_fee": 6000,
+    "eligibility_min_income": 150000,
+    "eligibility_min_score": 780,
+    "rewards": {
+      "travel_miles_pct": 5
+    },
+    "perks": ["unlimited lounge access", "hotel elite status"]
+  },
+  {
+    "name": "American Express Gold",
+    "issuer": "American Express",
+    "annual_fee": 2500,
+    "eligibility_min_income": 60000,
+    "eligibility_min_score": 720,
+    "rewards": {
+      "dining_cashback_pct": 4
+    },
+    "perks": ["dining vouchers", "priority reservations"]
+  },
+  {
+    "name": "Kotak Mahindra Royale Signature",
+    "issuer": "Kotak Mahindra Bank",
+    "annual_fee": 4000,
+    "eligibility_min_income": 100000,
+    "eligibility_min_score": 750,
+    "rewards": {
+      "all_spends_cashback_pct": 3
+    },
+    "perks": ["airport lounge access", "golf invitations"]
+  },
+  {
+    "name": "Kotak Essentia",
+    "issuer": "Kotak Mahindra Bank",
+    "annual_fee": 500,
+    "eligibility_min_income": 30000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 2
+    },
+    "perks": ["fuel surcharge waiver", "accidental insurance"]
+  },
+  {
+    "name": "Bank of Baroda Platinum",
+    "issuer": "Bank of Baroda",
+    "annual_fee": 250,
+    "eligibility_min_income": 25000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 1
+    },
+    "perks": ["fuel surcharge waiver", "balance transfer"]
+  },
+  {
+    "name": "PNB Privilege",
+    "issuer": "Punjab National Bank",
+    "annual_fee": 1000,
+    "eligibility_min_income": 40000,
+    "eligibility_min_score": 650,
+    "rewards": {
+      "all_spends_cashback_pct": 2
+    },
+    "perks": ["movie vouchers", "fuel surcharge waiver"]
+  },
+  {
+    "name": "IndusInd Bank Platinum",
+    "issuer": "IndusInd Bank",
+    "annual_fee": 300,
+    "eligibility_min_income": 35000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 1.5
+    },
+    "perks": ["AC lounge access", "concierge service"]
+  },
+  {
+    "name": "IndusInd Bank SuperSaver",
+    "issuer": "IndusInd Bank",
+    "annual_fee": 0,
+    "eligibility_min_income": 20000,
+    "eligibility_min_score": 600,
+    "rewards": {
+      "all_spends_cashback_pct": 2
+    },
+    "perks": ["no annual fee", "utility bill waiver"]
+  },
+  {
+    "name": "RBL Bank Platinum Maxima",
+    "issuer": "RBL Bank",
+    "annual_fee": 1500,
+    "eligibility_min_income": 60000,
+    "eligibility_min_score": 700,
+    "rewards": {
+      "all_spends_cashback_pct": 2,
+      "travel_miles_pct": 1
+    },
+    "perks": ["airport lounge access", "movie vouchers"]
+  },
+  {
+    "name": "RBL Bank Aura",
+    "issuer": "RBL Bank",
+    "annual_fee": 2500,
+    "eligibility_min_income": 80000,
+    "eligibility_min_score": 740,
+    "rewards": {
+      "all_spends_cashback_pct": 3
+    },
+    "perks": ["high cashback categories", "fuel surcharge waiver"]
+  },
+  {
+    "name": "Standard Chartered Priority",
+    "issuer": "Standard Chartered",
+    "annual_fee": 0,
+    "eligibility_min_income": 50000,
+    "eligibility_min_score": 650,
+    "rewards": {
+      "all_spends_cashback_pct": 1
+    },
+    "perks": ["priority banking benefits", "milestone vouchers"]
+  },
+  {
+    "name": "HSBC Platinum Reward",
+    "issuer": "HSBC",
+    "annual_fee": 2000,
+    "eligibility_min_income": 70000,
+    "eligibility_min_score": 700,
+    "rewards": {
+      "all_spends_cashback_pct": 3
+    },
+    "perks": ["extra reward points", "concierge service"]
+  }
+]

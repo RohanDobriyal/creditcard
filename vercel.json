@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "frontend/build",
+        "buildCommand": "cd frontend && npm install && npx react-scripts build"
+      }
+    },
+    {
+      "src": "backend/main.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    { "src": "/chat", "methods": ["POST"], "dest": "backend/main.py" },
+    { "src": "/(.*)", "dest": "frontend/build/$1" }
+  ]
+}

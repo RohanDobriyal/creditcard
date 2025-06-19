@@ -1,24 +1,11 @@
 {
   "version": 2,
   "builds": [
-    {
-      "src": "frontend/build/**",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "backend/main.py",
-      "use": "@vercel/python"
-    }
+    { "src": "frontend/build/**", "use": "@vercel/static" },
+    { "src": "backend/main.py",    "use": "@vercel/python" }
   ],
   "routes": [
-    {
-      "src": "/chat",
-      "methods": ["POST"],
-      "dest": "backend/main.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "frontend/build/$1"
-    }
+    { "src": "/chat", "methods": ["POST"], "dest": "backend/main.py" },
+    { "src": "/(.*)", "dest": "frontend/build/$1" }
   ]
 }
